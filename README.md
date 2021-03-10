@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mike (they/them) and I'm a student getting my bachelor's degree in Computer Science at the University of Central Florida. Maybe a master's, who knows! Looking to graduate May, 2022, my current course work focuses on my interests in machine learning, data science, and software engineering. Much of my time is spent on Kaggle or Datacamp in pursuit of understanding state of the art machine learning models, but I spend time working on Java applications and full stack web development for my courses as well. Thanks for stopping by and checking out my page 🙂
+I'm Mike and I'm a student getting my bachelor's degree in Computer Science at the University of Central Florida. Maybe a master's, who knows! Looking to graduate May, 2022, my current course work focuses on interests in machine learning, data science, and software engineering. Much of my time is spent on Kaggle or Datacamp in pursuit of understanding state of the art machine learning models, but I work on Java applications and full stack web development for my courses as well. Thanks for stopping by. 🙂
