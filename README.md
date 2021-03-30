@@ -11,7 +11,7 @@ I am a 3rd-year undergraduate student at the University of Central Florida where
 
 ### I am...
 - 🔭 Currently working on [Pantry Pal](https://github.com/SPVTNIK-ONLINE/Pantry-Pal)
-- 🌱 Currently learning [Flutter](https://flutter.dev/) and [Tensorflow](https://www.tensorflow.org/)
+- 🌱 Currently learning [Flutter](https://flutter.dev/) and [Deep Learning](https://d2l.ai/)
 - 👯 Looking to collaborate on projects implementing machine learning models
 - 😄 Pronouns: they // them
 
